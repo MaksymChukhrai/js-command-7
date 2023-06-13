@@ -1,0 +1,9 @@
+.load-more {
+  /* display: block; */
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.load-more.is-hidden {
+  display: none;
+}
